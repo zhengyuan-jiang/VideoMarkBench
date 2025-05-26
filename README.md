@@ -42,7 +42,7 @@ If you find our work useful for your research, please consider citing the paper
 ```
 @article{jiang2025videomarkbench,
   title={VideoMarkBench: Benchmarking Robustness of Video Watermarking},
-  author={Jiang, Zhengyuan and Guo, Moyang and Li, Kecen, Hu, Yuepeng, Zhicong Huang, Cheng Hong and Gong, Neil Zhenqiang},
+  author={Jiang, Zhengyuan and Guo, Moyang and Li, Kecen and Hu, Yuepeng and Wang, Yupu and Huang, Zhicong and Hong, Cheng and Gong, Neil Zhenqiang},
   journal={arXiv preprint},
   year={2025}
 }

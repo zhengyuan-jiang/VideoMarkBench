@@ -1,6 +1,6 @@
 # VideoMarkBench
 
-This repository is the official implementation of [VideoMarkBench: Benchmarking Robustness of Video Watermarking](), and includes both the code and dataset. It provides comprehensive resources for evaluating and benchmarking the robustness of video watermarking methods.
+This repository is the official implementation of our paper [VideoMarkBench: Benchmarking Robustness of Video Watermarking](), and includes both the code and dataset. It provides comprehensive resources for evaluating and benchmarking the robustness of video watermarking methods.
 
 
 

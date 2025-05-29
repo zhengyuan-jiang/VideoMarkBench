@@ -1,6 +1,6 @@
 # VideoMarkBench
 
-This repository is the official implementation of our paper [VideoMarkBench: Benchmarking Robustness of Video Watermarking](), and includes both the code and dataset. It provides comprehensive resources for evaluating and benchmarking the robustness of video watermarking methods.
+This repository is the official implementation of our paper [VideoMarkBench: Benchmarking Robustness of Video Watermarking](https://arxiv.org/abs/2505.21620), and includes both the code and dataset. It provides comprehensive resources for evaluating and benchmarking the robustness of video watermarking methods.
 
 
 
@@ -18,7 +18,7 @@ This repository includes two white-box, two black-box, and eight common video pe
 
 - WEvade: A white-box perturbation originally designed to attack image watermarks. We extend it to the video domain for attacking video watermarks. More details are available [here](https://github.com/zhengyuan-jiang/WEvade).
 
-- Square Attack: A score-based black-box perturbation method for images. We adapt it for each video watermarking method in our benchmark. See the [paper appendix]() for more implementation details. The original implementation can be found [here](https://github.com/max-andr/square-attack).
+- Square Attack: A score-based black-box perturbation method for images. We adapt it for each video watermarking method in our benchmark. See the [paper appendix](https://arxiv.org/abs/2505.21620) for more implementation details. The original implementation can be found [here](https://github.com/max-andr/square-attack).
 
 - Triangle Attack: A label-based black-box perturbation method for images. The original implementation is available [here](https://github.com/xiaosen-wang/TA).
 

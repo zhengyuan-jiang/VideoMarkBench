@@ -24,7 +24,7 @@ This repository includes two white-box, two black-box, and eight common video pe
 
 ## Aggregations
 
-There are several different strategies for aggregating watermarks (logits) decoded from individual frames in a video, as implemented in [aggregate.py](https://github.com/zhengyuan-jiang/VideoMarkBench/blob/main/aggregation.py).
+There are several different strategies for aggregating watermarks (logits) decoded from individual frames in a video, as implemented in aggregate.py.
 
 
 
